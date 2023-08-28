@@ -1,0 +1,11 @@
+/wandb
+/previous_runs
+/data
+/.vscode
+/__pycache__
+/test.py
+/slurm
+test.py
+test3.py
+test4.py
+test5.py
